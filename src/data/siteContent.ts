@@ -5,7 +5,7 @@ export const SITE_CONFIG = {
   ctaLabel: 'Get Quote: (901) 695-4119',
   phoneHref: 'tel:+19016954119',
   phoneSchema: '+1-901-695-4119',
-  siteUrl: 'https://sr22insurancememphistn.site',
+  siteUrl: 'https://www.sr22insurancememphistn.site',
   mapEmbedUrl: 'https://www.google.com/maps?q=35.1495,-90.0490&z=10&output=embed',
   mapExternalUrl: 'https://maps.app.goo.gl/VEM3Tbpt2CDDSaoM8',
   tnDpsSr22Url: 'https://www.tn.gov/safety/driver-services/reinstatements/frlawindex/sr22.html',
